@@ -1,0 +1,102 @@
+Levels,Title,Points Needed,Message
+1,Novice 1,20,Level Up! Unlocked: Novice. Participation trophy included.
+1.1,Novice 2,40,Welcome to the shallow end. Don't drown!
+1.2,Novice 3,60,"Congratulations, you're officially terrible at this. But hey, at least you're not a complete newbie anymore!"
+1.3,Novice 4,80,They say a journey of a thousand miles begins with a single step. This must be the first inch.
+1.4,Novice 5,100,Be prepared to make mistakes everyone will point out. It's a right of passage for novices.
+2,Apprentice 1,130,Level Up! Unlocked: Apprentice. Now accepting applications for a competent mentor.
+2.1,Apprentice 2,160,Apprentice? More like 'Apprentice-ly Ever Heard of Me?' Watch this space.
+2.2,Apprentice 3,190,"Finally, a title that accurately reflects the amount of coffee I'll be consuming. Onward!"
+2.3,Apprentice 4,220,Day 1 of being the apprentice. Pretty sure I just saved the company millions. You're welcome in advance.
+2.4,Apprentice 5,250,"Apprentice? That's just a fancy word for 'future rockstar.' Buckle up, everyone."
+3,Initiate 1,290,"Level Up! Unlocked: Initiate. Initiate,
+huh? Don't get too excited, it's basically trainee minion status."
+3.1,Initiate 2,330,"Welcome aboard, Initiate. Prepare for disappointment... but with a slightly cooler title!"
+3.2,Initiate 3,370,Congratulations! you're NOT USELESS. We'll see how long that lasts.
+3.3,Initiate 4,410,"Initiate? More like 'Initiated into the neverending cycle of chores.' Buckle up, buttercup."
+3.4,Initiate 5,450,"So, Initiate. Remember, even a small step forward is a giant leap from total cluelessness."
+4,Aspirant 1,500,Level Up! Unlocked: Aspirant Welcome to Aspirant-hood! May your coffee be strong and your patience endless as you grind your way to the top.
+4.1,Aspirant 2,550,Now accepting applications for your first existential crisis.
+4.2,Aspirant 3,600,"Congratulations! You've officially joined the ranks of the perpetually sleep-deprived and mildly stressed. Aspirant life, baby!"
+4.3,Aspirant 4,650,"Aspirant? More like As-pire-ant, because for now, you're just a tiny ant at the foot of a giant mountain."
+4.4,Aspirant 5,700,"They say the journey of a thousand miles begins with a single step. This journey begins with a whole lot of caffeine and late nights. You're an Aspirant now, good luck!"
+5,Journeyman 1,760,Level Up! Unlocked: Journeyman  Now to put this fancy 'Journeyman' title on something besides my Tinder profile.
+5.1,Journeyman 2,820,Leveled up to Journeyman! Can't wait to unlock the exciting new feature: slightly less yelling from my Foreman.
+5.2,Journeyman 3,880,"10,000 mistakes later, I'm officially a Journeyman. Now accepting bets on how long until I make the next one."
+5.3,Journeyman 4,940,"They say a Journeyman is halfway there. Does that mean I can finally leave work at a decent hour, or...?"" trails off with a sigh"
+5.4,Journeyman 5,1000,Woo hoo! Journeyman status achieved! Now someone please explain why my bank account still looks like an Apprentice's.
+6,Adept 1,1070,"Level Up! Unlocked: Adept Adept,huh? Took long enough. About as slow as watching magical paint dry."
+6.1,Adept 2,1140,Now can someone explain why my robes still look like discount bedsheets?
+6.2,Adept 3,1210,Finally! Now accepting applications for apprentice. Must be willing to fetch endless cups of tea and tolerate my existential dread.
+6.3,Adept 4,1280,"Adept? More like 'adequate.' But hey, progress is progress, right?"
+6.4,Adept 5,1350,Time to celebrate by setting a new record for most magical mishaps in a single day.
+7,Skilled 1,1430,"Level Up! Unlocked: Skilled Level up, buttercup! You've officially graduated from ""Clueless"" to ""Skilled."" Now accepting applications for ""Mastermind."""
+7.1,Skilled 2,1510,"Congratulations! You're no longer a total newbie. Give yourself a pat on the back (but not too hard, you still have a lot to learn)"
+7.2,Skilled 3,1590,"Skilled, huh? Don't get cocky. This just means you're qualified to train the next batch of clueless interns"
+7.3,Skilled 4,1670,"Welcome to the land of ""Skilled,"" where the only constant is your ever-growing to-do list. Buckle up, buttercup!"
+7.4,Skilled 5,1750,"So, you're Skilled. Big whoop. Now go impress someone who actually doesn't need a participation trophy."
+8,Proficient 1,1840,"Level Up! Unlocked: Proficient Proficient: Basically adulting, but with slightly fewer meltdowns."
+8.1,Proficient 2,1930,Now accepting congratulations (and coffee)...
+8.2,Proficient 3,2020,Proficient? More like 'Finally Figured It Out...ish'.
+8.3,Proficient 4,2110,"Don't worry, there's still plenty of room for improvement (and existential dread)."
+8.4,Proficient 5,2200,"No longer a complete novice, but definitely not a master. Enjoy the awkward middle ground!"
+9,Expert 1,2300,Level Up! Unlocked: Expert Now you're qualified to explain things to beginners... badly.
+9.1,Expert 2,2400,"Expert badge unlocked! Don't worry, your newfound knowledge won't make you any less likely to argue with strangers on the internet."
+9.2,Expert 3,2500,"10,000 hours later, you're finally an expert! Just in time for everything to change completely."
+9.3,Expert 4,2600,Woohoo! Expert status achieved! May your newfound confidence be balanced by a healthy dose of humility.
+9.4,Expert 5,2700,"So you're an expert, huh? Brace yourself for endless questions from everyone who thinks Google is broken."
+10,Master 1,2810,Level Up! Unlocked: Master Master of Disaster? More like Mastered the Art of Not Quitting (Yet).
+10.1,Master 2,2920,Level Up! Now Bow Down... or at least don't mess up too much.
+10.2,Master 3,3030,"Congratulations, Master! Now everyone expects miracles. Don't disappoint."
+10.3,Master 4,3140,"Master of what, exactly? Don't worry, you'll figure it out eventually."
+10.4,Master 5,3250,"Welcome to the club, Master. We meet Tuesdays... if we can remember."
+11,Grandmaster 1,3370,"Level Up! Unlocked: Grandmaster Finally achieved Grandmaster status. Took longer than unwrapping a toddler's Christmas present, but hey, at least I got there."
+11.1,Grandmaster 2,3490,"Bow down to my amazing... well, whatever it is that makes me a Grandmaster."
+11.2,Grandmaster 3,3610,Now accepting applications for apprentices who can handle both my genius and my terrible sense of humor.
+11.3,Grandmaster 4,3730,"Turns out, becoming a Grandmaster is like climbing Mount Everest. The view is incredible, but man, was it a pain in the yeti."
+11.4,Grandmaster 5,3850,Grandmaster 5: Can't wait to use this to impress people who still use AOL Instant Messenger.
+12,Sage 1,3980,Level Up! Unlocked: Sage Now accepting applications for apprentices who can handle existential dread.
+12.1,Sage 2,4110,Congratulations! Please don't use your newfound wisdom to point out all the flaws in the universe.
+12.2,Sage 3,4240,"Welcome to the Sages' Club. Meetings are every Tuesday... but you already knew that, didn't you?"
+12.3,Sage 4,4370,"Sage, huh? Great. Now everyone will come to you with life advice. Remember, cynicism is just another form of wisdom... probably."
+12.4,Sage 5,4500,"Becoming a Sage: It's not about knowing all the answers, it's about realizing most questions are pointless anyway."
+13,Virtuoso 1,4640,"Level Up! Unlocked: Virtuoso Sure, becoming a virtuoso is easy. Just like breathing fire – anyone can do it, with enough practice and the occasional third-degree burn."
+13.1,Virtuoso 2,4780,Sleep? Food? Social interaction? Those are all things you can say goodbye to when you embark on your glorious quest to become a finger-bleedingly amazing musician.
+13.2,Virtuoso 3,4920,"Anyone can learn an instrument. It's becoming a virtuoso that separates the wheat from the chaff... or, more accurately, the air guitarists from the Paganinis."
+13.3,Virtuoso 4,5060,"Congratulations on your decision to pursue virtuosity! Just remember, the only thing louder than your applause at the end will likely be your inner critic."
+13.4,Virtuoso 5,5200,"They say practice makes perfect. But let's be honest, becoming a virtuoso is about achieving a level of 'perfect' that makes mere mortals question reality."
+14,Champion 1,5350,"Level Up! Unlocked: Champion Champion status achieved! Now accepting applications for personal assistants to carry this massive trophy."""
+14.1,Champion 2,5500,"Level up, losers! Behold the new champion, here to make winning look mildly inconvenient."
+14.2,Champion 3,5650,"Turns out, all it took to become a champion was a questionable amount of caffeine and a complete disregard for personal hygiene. Who knew?"
+14.3,Champion 4,5800,"Championing it since [insert year you started]. Finally, the rest of the world caught on."
+14.4,Champion 5,5950,"Champion? More like 'survivor of a ridiculously long to-do list.' But hey, trophy or participation award, right?"
+15,Hero 1,6110,"Level Up! Unlocked: Hero Level up? More like level over it. But hey, someone's gotta save the princess from her terrible taste in dragons."
+15.1,Hero 2,6270,"Saving the world? Not exactly what I had on my to-do list, but apparently Netflix can wait."
+15.2,Hero 3,6430,"Alright, fine, I'll be your hero. Just don't expect a cape, a dazzling smile, or any emotional vulnerability."
+15.3,Hero 4,6590,"Look, someone's gotta deal with the supervillains with a superiority complex. Might as well be me, because apparently everyone else is allergic to laser beams."
+15.4,Hero 5,6750,"Hero status? Whatever. As long as there's a decent reward at the end, I'm not complaining (too much)."
+16,Legend 1,6920,Level Up! Unlocked: Legend Legend status achieved. Prepare for underwhelming parades and slightly discounted merchandise.
+16.1,Legend 2,7090,"Finally a Legend! Now if you'll excuse me, I have a lifetime supply of cryptic prophecies to fulfill."
+16.2,Legend 3,7260,"Legend, huh? Just another label for someone who caused enough trouble to be remembered."
+16.3,Legend 4,7430,Legend unlocked! Please wait patiently for your complimentary ego boost and existential crisis.
+16.4,Legend 5,7600,"""Level up to Legend! Now accepting bets on how long it takes for someone to try to steal my glory."
+17,Mythic 1,7780,"Level Up! Unlocked: Mythic Mythic, huh? Took you long enough. Now get out there and make some newbies faint."
+17.1,Mythic 2,7960,Congratulations! You've officially broken the game... or at least reached the level where it starts to break you.
+17.2,Mythic 3,8140,"Mythic badge unlocked: bragging rights included. Please use responsibly... or not, I don't judge."
+17.3,Mythic 4,8320,"Mythic? More like Mythical pain in the... well, you get the idea. But hey, welcome to the club!"
+17.4,Mythic 5,8500,"Level up complete! Now go forth and conquer... or at least survive. No pressure, Mythic."
+18,Demigod 1,8690,"Level Up! Unlocked: Demigod Congratulations! You've officially graduated from ""regular mortal"" to ""celestial probationary fry cook."" Demigod powers? Coming soon, maybe."
+18.1,Demigod 2,8880,Demigod status unlocked! This comes with the perk of attracting mythical monsters and the responsibility of cleaning up celestial messes. You're welcome.
+18.2,Demigod 3,9070,"So, turns out you're a Demigod. That explains the weird dreams, the unexplained monster attacks, and why you can't fold laundry without summoning a minor deity."
+18.3,Demigod 4,9260,"Demigod, huh? Bet you were hoping for ""Chosen One."" Well, buckle up buttercup, because destiny rarely comes with a side of fries."
+18.4,Demigod 5,9450,"Level up! You are now a Demigod! Just remember, with great power comes the annoyance of dealing with family drama that spans millennia."
+19,Ascendant 1,9650,Level Up! Unlocked: Ascendant Level up unlocked: Ascendant. Now accepting applications for worshippers.
+19.1,Ascendant 2,9850,"Took long enough, right? Behold! The glorious arrival of your new Ascendant overlords."
+19.2,Ascendant 3,10050,Finally achieved Ascendance. Now to figure out what exactly I'm supposed to ascend to besides a bigger ego.
+19.3,Ascendant 4,10250,"Apparently, I'm an Ascendant now. Anyone got the handbook? This power surge comes with a lot of questions."
+19.4,Ascendant 5,10450,Ascendance achieved. Please direct all existential dread and cosmic inquiries to my new assistant. They'll be much better at handling it than me.
+20,Transcendant 1,10660,Level Up! Unlocked: Transcendant Level 10 noob Transcended today. Still waiting for my existential dread discount.
+20.1,Transcendant 2,10870,"Finally achieved Transcendence. Apparently, enlightenment comes with a lifetime subscription to cosmic background noise."
+20.2,Transcendant 3,11080,"Reached Transcendence. Can confirm, all the answers to the universe are incredibly disappointing. Mostly just tax advice for higher dimensions."
+20.3,Transcendant 4,11290,Now accepting applications for a worthy successor to inherit my crippling student loan debt.
+20.4,The Man,11500,Holy Hell... You beat the game... Nobody thought it was possible but you did it. Enjoy... Well whatever it was that you were doing I guess
